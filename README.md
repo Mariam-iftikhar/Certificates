@@ -109,19 +109,6 @@ These certifications directly support my transition into **Business Intelligence
 
 ---
 
-## 📫 Connect With Me
-
-**Mariam Iftikhar**  
-MS Business Analytics Student | Graduate Research Assistant  
-Roosevelt University
-
-- 💼 **LinkedIn:** [linkedin.com/in/mariam-iftikhar](https://linkedin.com/in/mariam-iftikhar)
-- 📧 **Email:** mariamiftikhar127@gmail.com
-- 🌐 **GitHub:** [@Mariam-iftikhar](https://github.com/Mariam-iftikhar)
-
-
----
-
 ## 📝 About This Repository
 
 This repository serves as a **comprehensive portfolio of professional certifications** that I've earned throughout my learning journey. Each certificate is stored as a PDF or image file and represents verified completion of coursework, hands-on projects, and assessments.
