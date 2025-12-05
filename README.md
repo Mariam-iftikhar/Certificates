@@ -95,11 +95,6 @@ As a **Business Analytics graduate student** and aspiring **BI/Data Analyst**, I
 - ✅ **AWS Cloud Certifications** (October 2025)
 - ✅ **Planning Machine Learning Projects** (October 2025)
 
-### Currently Pursuing
-- 🔄 Advanced Power BI Certifications
-- 🔄 AWS Solutions Architect Associate
-- 🔄 Advanced Machine Learning Specializations
-
 ---
 
 ## 💼 How These Skills Support My Career Goals
@@ -123,9 +118,7 @@ Roosevelt University
 - 💼 **LinkedIn:** [linkedin.com/in/mariam-iftikhar](https://linkedin.com/in/mariam-iftikhar)
 - 📧 **Email:** mariamiftikhar127@gmail.com
 - 🌐 **GitHub:** [@Mariam-iftikhar](https://github.com/Mariam-iftikhar)
-- 📊 **Portfolio Projects:** 
-  - [Excel Portfolio](https://github.com/Mariam-iftikhar/Excel-Portfolio)
-  - [Power BI Dashboard Projects](https://github.com/Mariam-iftikhar)
+
 
 ---
 
